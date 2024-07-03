@@ -6,6 +6,7 @@
     }
 
     .box {
+      background-color: rgb(255, 253, 251);
       border: 5px solid greenyellow;
       border-radius: 50px;
       padding: 5%;
@@ -13,7 +14,7 @@
      
     }
 
-    #email {
+    .cred {
       width: 70%;
     }
 
@@ -34,6 +35,13 @@
        box-shadow: 5px 8px black;
     }
 
-    .placeholder {
+    #placeholder-id {
+      background-color: #ffffff;
+      color: red;
+      text-align: center;
+    }
+        #placeholder-pass {
+      background-color: #ffffff;
+      color: rgb(70, 42, 2);
       text-align: center;
     }
